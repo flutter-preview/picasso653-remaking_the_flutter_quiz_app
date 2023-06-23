@@ -19,10 +19,10 @@ class QuizApp extends StatelessWidget {
             const SizedBox(
               height: 15,
             ),
-            const Text('Learn The Flutter Way'),
+            const Text('Let\'s Learn The Flutter Way'),
             TextButton(
               onPressed: () {},
-              child: const Text('Start Quiz'),
+              child: const Text('Wanna Try?'),
             )
           ],
         ),
