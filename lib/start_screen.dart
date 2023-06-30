@@ -19,10 +19,10 @@ class StartScreen extends StatelessWidget {
             const SizedBox(
               height: 15,
             ),
-            const Text('Let\'s Learn The Flutter Way'),
+            const Text('Learn The Flutter Way'),
             TextButton(
               onPressed: () {},
-              child: const Text('Wanna Try?'),
+              child: const Text('Start Quiz!'),
             )
           ],
         ),
